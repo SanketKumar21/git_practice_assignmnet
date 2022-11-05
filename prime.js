@@ -5,8 +5,9 @@ for(i=1;i<=number;i++){
         count++;
     }
     if(count==2){
-        console.log(num,"Prime number");
+
+        console.log(number,"Is a Prime number");
     }else{
-        console.log(num,"Not prime number");
-    }
+        console.log(number,"Is Not a prime number");
+
 }
