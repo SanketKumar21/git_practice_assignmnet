@@ -10,4 +10,5 @@ for(i=1;i<=number;i++){
     }else{
         console.log(number,"Is Not a prime ");
 
+
 }
